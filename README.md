@@ -2,6 +2,13 @@
 
 This project contains a Node.js scripts that reads an SQL/Conf file, extracts SQL queries, and converts them into Fleet YAML format. The resulting YAML can be used with FleetDM for monitoring and management.
 
+## To Use the Go Version of this Script
+
+If you'd like to use the Go version of this script, please see the README located in the `/go` folder of this project for instructions on how to run the Go-based tool.
+
+[Go Version README](./go/README.md)
+
+
 ## Requirements
 
 To run this project, you will need the following:
