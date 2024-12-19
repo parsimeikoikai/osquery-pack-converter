@@ -49,8 +49,8 @@ function convertOsqueryToFleet(inputFile, outputFile) {
 }
 
 // Input/Output file paths
-const inputFile = process.argv[2]; // Input osquery pack file (JSON)
-const outputFile = process.argv[3]; // Output FleetDM queries file (YAML)
+const inputFile = process.argv[2]; 
+const outputFile = process.argv[3]; 
 
 if (!inputFile || !outputFile) {
   console.error('Usage: node convertOsqueryToFleet.js <osquery_pack.json> <output_fleet.yml>');

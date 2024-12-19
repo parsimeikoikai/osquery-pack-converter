@@ -21,8 +21,6 @@ function convertSqlFileToYaml(inputFile, outputFile) {
       .map((query) => query.trim()) // Trim spaces from each query
       .filter((query) => query); // Remove empty queries
     
-    console.log(`Found ${queries.length} queries.`); // Debug: Check how many queries were found
-
     // Check if we have valid queries
     if (queries.length === 0) {
       console.log('No valid queries found in the SQL file.');
