@@ -6,7 +6,7 @@ This project contains a Node.js scripts that reads an SQL/Conf file, extracts SQ
 
 If you'd like to use the Go version of this script, please see the README located in the `/go` folder of this project for instructions on how to run the Go-based tool.
 
-[Go Version README](./fleet-yaml-converter/README.md)
+[Go Version README](./fleet-yaml-converter-go/README.md)
 
 
 ## Requirements
