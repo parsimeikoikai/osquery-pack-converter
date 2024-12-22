@@ -29,7 +29,7 @@ To run this project, you will need the following:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/parsimeikoikai/osquery-pack-converter.git](https://github.com/parsimeikoikai/osquery-pack-converter.git)
+   git clone https://github.com/parsimeikoikai/osquery-pack-converter.git 
    cd osquery-pack-converter
    npm install
 ### File Structure
