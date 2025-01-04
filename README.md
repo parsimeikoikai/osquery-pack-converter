@@ -104,6 +104,7 @@ This command will apply the configuration defined in your YAML file to FleetDM, 
     * Ensure you have write permissions in the directory where you're trying to save the output YAML file. 
     * Check if the directory path is correctly specified.
 
-## License
+## License  
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).  
 
-This project is **not licensed**. All rights are reserved.
+You are free to use, modify, and distribute this software under the terms of the GPL v3.0.
