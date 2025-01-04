@@ -98,6 +98,7 @@ We welcome contributions to the Fleet YAML Converter! If you’d like to improve
 3. Open a pull request with a description of what you’ve changed.
 
 
-## License
+## License  
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).  
 
-This project is **not licensed**. All rights are reserved.
+You are free to use, modify, and distribute this software under the terms of the GPL v3.0.
